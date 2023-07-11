@@ -1,3 +1,5 @@
+Firebase host link:  https://habittracker-47fbe.firebaseapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
